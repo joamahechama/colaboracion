@@ -1,0 +1,20 @@
+{
+  "name": "colaboracion",
+  "version": "1.0.0",
+  "description": "esta es una colaboración de Alejandro y Juan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joamahechama/colaboracion.git"
+  },
+  "keywords": [],
+  "author": "Alejandro y Juan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joamahechama/colaboracion/issues"
+  },
+  "homepage": "https://github.com/joamahechama/colaboracion#readme"
+}
